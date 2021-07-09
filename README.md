@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">Currently a APEX Junior Developer</h3>
+<h3 align="center">Currently an APEX Junior Developer</h3>
 
 - 📫 How to reach me **eashl003@plattsburgh.edu**
 
