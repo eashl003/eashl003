@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
 <h3 align="center">Currently an APEX Junior Developer</h3>
 
-- 📫 How to reach me **eashl003@plattsburgh.edu**
+- 📫 How to reach me **elisabethjoyashley@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
