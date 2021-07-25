@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">Currently an APEX Junior Developer</h3>
+<h3 align="center">Junior APEX Developer</h3>
+<h4 align="center">B.S. in Compute Science</h4>
 
 - 📫 How to reach me **elisabethjoyashley@gmail.com**
 
