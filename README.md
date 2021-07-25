@@ -10,4 +10,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<ul>
+  <li>Java</li>
+  <li>C++</li>
+  <li>PL/SQL</li>
+  <li>APEX</li>
+  <li>HTML, CSS & Javascript</li>
+  </ul>
+  
 
